@@ -1,12 +1,12 @@
 {
-  "export_job_id": "7f95c01f-b2be-4292-b0ea-74dca68d2844",
+  "export_job_id": "107513f3-381e-43c1-bb06-79fd444063f4",
   "id_short": 214713,
-  "published_at": "2026-04-22T19:23:19Z",
+  "published_at": "2026-04-30T07:08:12Z",
   "repo_name": "top-30-active-restaurant-whales-in-washington-d-c-us-sample-214713",
   "sample_asset_name": "beamstation_214713_restaurants-us-dc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/214713/beamstation_214713_restaurants-us-dc_SAMPLE_DIST.csv",
-  "sample_records": 92,
-  "sample_sha256": "2c7bf523691247941656260883d28c4d682096a0c48d924f94554ed40aac0bc5",
-  "sample_size_bytes": 398666,
-  "total_records": 927
+  "sample_records": 9,
+  "sample_sha256": "9a47c422f31678d9c3fbd2d24a18ba0d678f0fee5fd1a67e517889d2115be62b",
+  "sample_size_bytes": 53122,
+  "total_records": 96
 }
